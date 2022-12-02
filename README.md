@@ -15,4 +15,8 @@ When did you download everything go to settings and Theme "Open Folders" and pas
 
 Enable it and done!
 
+2. Is this you font?
+
+No, from discord
+
 Have questions? Text me! DeBondor#0001
