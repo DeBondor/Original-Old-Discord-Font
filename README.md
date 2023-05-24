@@ -1,7 +1,7 @@
 # Original-Old-Discord-Font
 Font by Discord
-
-! BetterDiscord required !
+! **OLD DISCORD FONT THEME NO LONGER SUPPORTED** !
+! **BetterDiscord required** !
 
 FAQ: 
 
