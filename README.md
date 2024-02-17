@@ -18,5 +18,3 @@ Enable it and done!
 2. Is this you font?
 
 No, from discord
-
-Have questions? Text me! DeBondor#0001
